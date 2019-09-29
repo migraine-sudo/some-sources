@@ -12,13 +12,16 @@ Tips:一些安全方面资源的整理（长期更新）
 
 # 二进制
 
+## 编程
 [为什么很多病毒是VBS写的](https://blog.csdn.net/xia_hu_nao/article/details/46814317)  
 [多种DLL注入技术原理介绍](https://blog.csdn.net/fuhanghang/article/details/83795769)
+
+## 漏洞研究
 [二进制常见漏洞总结](https://bbs.pediy.com/thread-252569.htm)
 [虚拟机逃逸](https://www.52pojie.cn/thread-783225-1-1.html )
+[Windows XP sp3 系统安装 Windbg 符号文件 Symbols 时微软失去支持的解决方案](https://blog.csdn.net/qq_38924942/article/details/87801649)
 
 
-
-# 编程
+# 漫谈
 
 [JAVA能挡住javascript嘛?](https://blog.csdn.net/java1856905/article/details/87903537)
