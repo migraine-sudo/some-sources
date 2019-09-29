@@ -9,6 +9,7 @@ Tips:一些安全方面资源的整理（长期更新）
 
 ## Net
 [透过DNS Tunnel绕过校园网认证系统实现免费上网 ](https://qiuri.org/posts/2152501839/)
+[DNS隧道技术解析](https://blog.csdn.net/Fly_hps/article/details/80565630)
 
 # 二进制
 
