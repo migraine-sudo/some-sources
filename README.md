@@ -21,7 +21,7 @@ Tips:一些安全方面资源的整理（长期更新）
 [二进制常见漏洞总结](https://bbs.pediy.com/thread-252569.htm)  
 [虚拟机逃逸](https://www.52pojie.cn/thread-783225-1-1.html )  
 [Windows XP sp3 系统安装 Windbg 符号文件 Symbols 时微软失去支持的解决方案](https://blog.csdn.net/qq_38924942/article/details/87801649)  
-
+[阿里聚安全攻防挑战赛第三题Android PwnMe解题思路](https://www.52pojie.cn/thread-572104-1-1.html)  
 
 # 漫谈
 
